@@ -10,24 +10,22 @@
 
 ## MATH
 
-* [Giải tích](math/giai-tich/README.md)
-  * [Vi phân](math/giai-tich/vi-phan.md)
-  * [Đạo hàm](math/giai-tich/dao-ham.md)
-* [Đại số tuyến tính](math/dai-so-tuyen-tinh/README.md)
+* [🔢 Đại số tuyến tính](math/dai-so-tuyen-tinh/README.md)
   * [Vector](math/dai-so-tuyen-tinh/vector.md)
   * [Ma trận](math/dai-so-tuyen-tinh/ma-tran.md)
-  * [Hệ phương trình tuyến tính](math/dai-so-tuyen-tinh/he-phuong-trinh-tuyen-tinh.md)
-  * [Trị riêng và vector riêng](math/dai-so-tuyen-tinh/tri-rieng-va-vector-rieng.md)
   * [Phép biến đổi tuyến tính](math/dai-so-tuyen-tinh/phep-bien-doi-tuyen-tinh.md)
-* [Vi Phân](math/vi-phan/README.md)
-  * [Gradients](math/vi-phan/gradients.md)
-  * [Đạo hàm bậc cao](math/vi-phan/dao-ham-bac-cao.md)
-  * [Chuỗi Taylor và Xấp xỉ](math/vi-phan/chuoi-taylor-va-xap-xi.md)
-  * [Vi phân Từng Phần và Quy tắc Chuỗi](math/vi-phan/vi-phan-tung-phan-va-quy-tac-chuoi.md)
-* [Tích phân](math/tich-phan/README.md)
-  * [Tích phân đa biến](math/tich-phan/tich-phan-da-bien.md)
-  * [Tích phân bội](math/tich-phan/tich-phan-boi.md)
-  * [Phương pháp tích phân số](math/tich-phan/phuong-phap-tich-phan-so.md)
+  * [Trị riêng và vector riêng](math/dai-so-tuyen-tinh/tri-rieng-va-vector-rieng.md)
+* [🔎 Giải tích](math/giai-tich/README.md)
+  * [Vi Phân](math/giai-tich/vi-phan/README.md)
+    * [Gradients](math/giai-tich/vi-phan/gradients.md)
+    * [Đạo hàm bậc cao](math/giai-tich/vi-phan/dao-ham-bac-cao.md)
+    * [Chuỗi Taylor và Xấp xỉ](math/giai-tich/vi-phan/chuoi-taylor-va-xap-xi.md)
+    * [Vi phân Từng Phần và Quy tắc Chuỗi](math/giai-tich/vi-phan/vi-phan-tung-phan-va-quy-tac-chuoi.md)
+  * [Tích phân](math/giai-tich/tich-phan/README.md)
+    * [Tích phân đa biến](math/giai-tich/tich-phan/tich-phan-da-bien.md)
+    * [Tích phân bội](math/giai-tich/tich-phan/tich-phan-boi.md)
+    * [Phương pháp tích phân số](math/giai-tich/tich-phan/phuong-phap-tich-phan-so.md)
+  * [Đạo hàm](math/giai-tich/dao-ham.md)
 * [Xác suất thống kê](math/xac-suat-thong-ke/README.md)
   * [Biến ngẫu nhiên và phân phối xác suất](math/xac-suat-thong-ke/bien-ngau-nhien-va-phan-phoi-xac-suat.md)
   * [Thống kê mô tả](math/xac-suat-thong-ke/thong-ke-mo-ta.md)
@@ -81,11 +79,22 @@
 
 ## MACHINE LEARNING
 
-* [Page 3](machine-learning/page-3.md)
+* [Fundamental](machine-learning/fundamental.md)
+* [Supervised Learning](machine-learning/supervised-learning.md)
+* [Unsupervised Learning](machine-learning/unsupervised-learning.md)
+* [Reinforcement Learning](machine-learning/reinforcement-learning.md)
 
 ## DEEP LEARNING
 
-* [Page 4](deep-learning/page-4.md)
+* [Fundamental](deep-learning/fundamental.md)
+* [MLP](deep-learning/mlp.md)
+* [CNN](deep-learning/cnn.md)
+* [RNN](deep-learning/rnn.md)
+* [Transformers](deep-learning/transformers.md)
+* [VAEs](deep-learning/vaes.md)
+* [GAN](deep-learning/gan.md)
+* [Diffusion](deep-learning/diffusion.md)
+* [Generative AI and LLMs](deep-learning/generative-ai-and-llms.md)
 
 ## CASE STUDY
 
