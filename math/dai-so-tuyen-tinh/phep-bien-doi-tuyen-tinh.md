@@ -185,8 +185,6 @@ print("NumPy Translated Vector:\n", translated_vector)
 
 ## 3. Tổ hợp các phép biến đổi
 
-### Tổ Hợp Các Phép Biến Đổi
-
 Tổ hợp các phép biến đổi là quá trình áp dụng nhiều phép biến đổi liên tiếp trên một đối tượng hoặc không gian. Trong toán học và khoa học máy tính, các phép biến đổi thường được biểu diễn bằng ma trận và tổ hợp các phép biến đổi là nhân các ma trận tương ứng.
 
 > Kết hợp các phép biến đổi bằng cách nhân các ma trận tương ứng.
@@ -200,8 +198,6 @@ Tổ hợp các phép biến đổi là quá trình áp dụng nhiều phép bi�
 Việc kết hợp các phép biến đổi này cho phép linh hoạt trong việc điều chỉnh và thể hiện các đối tượng trong không gian khác nhau, đặc biệt quan trọng trong lĩnh vực đồ họa máy tính và thị giác máy.
 
 ## 4. Ma trận Jacob và biến đổi không gian
-
-### Ma trận Jacob
 
 Ma trận Jacob, hay còn gọi là Jacobian, là một ma trận chứa các đạo hàm riêng phần của một hàm nhiều biến. Trong toán học, ma trận Jacob là công cụ quan trọng để phân tích và giải quyết các bài toán liên quan đến đạo hàm trong không gian nhiều chiều. Nó đóng vai trò chủ chốt trong việc tính toán tốc độ thay đổi của một hàm khi các biến đầu vào thay đổi.
 
