@@ -11,4 +11,4 @@ Vậy chúng ta sẽ cùng tìm hiểu về:
 * [Vector](vector.md)
 * [Ma trận](ma-tran.md)
 * [Phép biến đổi tuyến tính](phep-bien-doi-tuyen-tinh.md)
-* [Trị riêng và vector riêng](tri-rieng-va-vector-rieng.md)
+* [Trị riêng và vector riêng](eigenvalues-va-eigenvector.md)

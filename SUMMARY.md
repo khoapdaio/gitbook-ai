@@ -14,7 +14,7 @@
   * [Vector](math/dai-so-tuyen-tinh/vector.md)
   * [Ma trận](math/dai-so-tuyen-tinh/ma-tran.md)
   * [Phép biến đổi tuyến tính](math/dai-so-tuyen-tinh/phep-bien-doi-tuyen-tinh.md)
-  * [Trị riêng và vector riêng](math/dai-so-tuyen-tinh/tri-rieng-va-vector-rieng.md)
+  * [Eigenvalues và Eigenvector](math/dai-so-tuyen-tinh/eigenvalues-va-eigenvector.md)
 * [🔎 Giải tích](math/giai-tich/README.md)
   * [Vi Phân](math/giai-tich/vi-phan/README.md)
     * [Gradients](math/giai-tich/vi-phan/gradients.md)
