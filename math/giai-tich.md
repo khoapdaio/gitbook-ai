@@ -234,6 +234,96 @@ x = c là một điểm uốn của $$f(x)$$ nếu độ lõm thay đổi tại 
 
 
 
+## 3. Tích phân&#x20;
+
+### 3.1 Định nghĩa
+
+Definite Integral: Giả sử $$f(x)$$ liên tục trên $$[a,b]$$. Chia $$[a,b]$$ thành n tập con có chiều rộng $$\Delta x$$ và chọn $$x_i^*$$ từ mỗi khoảng. Ta được
+
+$$
+\displaystyle \int_{a}^{b} f(x) dx=\displaystyle{\lim \sum_{i=1}^n f(x_i^*)\Delta x}
+$$
+
+
+
+**Anti-Derivative(Nguyên hàm):**  Nguyên hàm của $$f(x)$$ là một hàm , $$F(x)$$ sao cho $$F'(x)= f(x)$$
+
+
+
+**Indefinite Integral (Tích phân không xác định):** $$\displaystyle{\int f(x) dx}= F(x)+c$$ khi $$F(x)$$ là một nguyên hàm của $$f(x)$$
+
+
+
+### 3.2  Định lý cơ bản của giải tích
+
+**Part I:**
+
+Nếu $$f(x)$$ liên tục trên $$[a,b]$$ thì $$g(x)= \displaystyle{\int_a^x f(t)dt}$$ \
+thì cũng liên tục trên $$[a,b]$$ và $$g'(x)=\frac{d}{dx} \displaystyle{\int_a^x f(t)dt}=f(x)$$
+
+
+
+**Part II:**
+
+$$f(x)$$ liên tục trên $$[a,b]$$, $$F(x)$$ là một nguyên hàm của $$f(x)$$ (i.e. $$F(x)=\displaystyle{\int f(x)dx}$$)
+
+Thì : $$g'(x) =\frac{d}{dx}\displaystyle{\int_a^x f(t)dt =f(x)}$$
+
+
+
+**Biến thể của Part I:**\
+$$\frac{d}{dx}\displaystyle{\int_a^{u(x)}f(t)dt}=u'(x)f[u(x)]$$\
+\
+$$\frac{d}{dx}\displaystyle{\int_{vx}^{b}f(t)dt}=-v'(x)f[v(x)]$$\
+\
+$$\frac{d}{dx}\displaystyle{\int_{v(x)}^{u(x)}f(t)dt}=u'(x)f[u(x)]- v'(x)f[v(x)]$$
+
+
+
+### 3.3 Tính chất
+
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><span class="math">\displaystyle{\int}f(x) \pm g(x)dx= \displaystyle{\int}f(x)dx\pm \displaystyle{\int}g(x)dx</span></td><td><span class="math">\displaystyle{\int}cf(x)dx=c\displaystyle{\int_a^b}f(x)dx</span> , c là một hằng số</td></tr><tr><td><span class="math">\displaystyle{\int_a^b}f(x) \pm g(x)dx= \displaystyle{\int_a^b}f(x)dx\pm \displaystyle{\int_a^b}g(x)dx</span></td><td><span class="math">\displaystyle{\int_a^b}cf(x)dx=c\displaystyle{\int_a^b}f(x)dx</span>, c là một hằng số<span class="math">f(x) = x * e^{2 pi i \xi x}</span></td></tr><tr><td><span class="math">\displaystyle{\int_a^a}f(x)dx=0</span></td><td><span class="math">\displaystyle{\int_a^b}cdx=c(b-a)</span></td></tr><tr><td><span class="math">\displaystyle{\int_a^b}f(x)dx=-\displaystyle{\int_b^a}f(x)dx</span></td><td><span class="math">\displaystyle{|\int_a^af(x)dx|}\leq \displaystyle{\int_a^a}|f(x)|dx</span></td></tr><tr><td><span class="math">\displaystyle{\int_a^b}f(x)dx=\displaystyle{\int_a^c}f(x)dx+\displaystyle{\int_c^b}f(x)dx</span> với mỗi giá trị của c</td><td></td></tr></tbody></table>
+
+<table data-header-hidden data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td>Nếu <span class="math">f(x)\ge g(x) </span> trong khoảng <span class="math">a\le x\le b</span> thì <span class="math">\displaystyle{\int_a^b}f(x)dx \ge\displaystyle{\int_a^b}g(x)dx</span></td></tr><tr><td>Nếu <span class="math">f(x) \ge 0</span> trong khoảng <span class="math">a \le x\le b</span> thì <span class="math">\displaystyle{\int_a^b}f(x)dx\ge 0</span></td></tr><tr><td>Nếu <span class="math">m \le f(x)\le M</span> trong khoảng <span class="math">a\le x\le b</span> thì <span class="math">m(b-a)\le \displaystyle{\int_a^b}f(x)dx \le M(b-a)</span></td></tr></tbody></table>
+
+### 3.4 Tích phân thông thường
+
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><span class="math">\displaystyle{\int}k dx= kx+c</span></td><td><span class="math">\displaystyle{\int}\sec^2udu=\tan u +c</span></td></tr><tr><td><span class="math">\displaystyle{\int}x^ndx= \frac{1}{n+1}x^{n+1}+c. n\ne -1</span></td><td><span class="math">\displaystyle{\int} \sec u  \tan u du =\sec u+c</span></td></tr><tr><td><span class="math">\displaystyle{\int}x^{-1} dx= \displaystyle{\int}\frac{1}{x}dx= \ln|x|+c</span></td><td><span class="math">\displaystyle{\int} \csc u \cot udu= -\csc u +c</span></td></tr><tr><td><span class="math">\displaystyle{\int} \frac{1}{ax+b}dx=\frac{1}{z}\ln |ax+b|+c</span></td><td><span class="math">\displaystyle{\int}\csc^2udu =- \cot u +c</span></td></tr><tr><td><span class="math">\displaystyle{\int}\ln udu =u\ln (u)-u+c</span></td><td><span class="math">\displaystyle{\int}\tan u du= \ln |\sec u|+c</span></td></tr><tr><td><span class="math">\displaystyle{\int}e^udu=u\ln (u)-u+c</span></td><td><span class="math">\displaystyle{\int} \sec u du=\ln |\sec u +\tan u|+c</span></td></tr><tr><td><span class="math">\displaystyle{\int}\cos udu=\sin u +c</span> </td><td><span class="math">\displaystyle{\int}\frac{1}{a^2+u^2}du=\frac{1}{a}\tan^{-1} (\frac{u}{a})+c</span></td></tr><tr><td><span class="math">\displaystyle{\int}\sin u du= -\cos u+c</span></td><td><span class="math">\displaystyle{\int}\frac{1}{a^2-u^2}du=\sin^{-1} (\frac{u}{a})+c</span></td></tr></tbody></table>
+
+
+
+### 3.5  Kỹ thuật tích phân tiêu chuẩn
+
+> Note: tại nhiều trường học sẽ dạy toàn bộ kỹ thuật trong sách giải tích 2 ngoại trừ Substitution Rule
+
+**u Substitution**: Sự thay thế $$u=g(x)$$ sẽ chuyển đổi $$\displaystyle{\int} f(g(x))g'(x)dx= \displaystyle{\int _{g(a)}^{g(b)}}f(u)du$$ sử dụng $$du=g'(x)dx$$. Đối với các tích phân không xác định, hãy bỏ các giới hạn của tích hợp
+
+
+
+Ex:&#x20;
+
+$$\displaystyle{\int_1^2}5x^2\cos(x^3)dx$$\
+\
+$$u=x^3 \to du=3x^2dx \to x^2dx=\frac{1}{3}du$$\
+\
+$$x= 1 \to u=1^3=1:: x=2\to u=2^3=8$$
+
+
+
+**Tích phân từng phân:**
+
+**a** $$\displaystyle{\int}udv=uv-\displaystyle{\int}vdu$$ và $$\displaystyle{\int_a^b}u dv=uv|_a^b- \displaystyle{\int_a^b}vdu$$. Chọn u và dv trong tích phân và tính du bằng cách phân bieejjt u và tính toán v sử dụng $$v=\displaystyle{\int}dv$$
+
+Ex: $$\displaystyle{\int} xe^{-x }dx$$\
+\
+$$u=x$$  $$dv=e^{-x} \to du|=dx$$  $$v=-e^{-x}$$\
+\
+$$\displaystyle \int xe^{-x}dx= -xe^{-x}+ \int e^{-x} dx = -xe^{-x}-e^{-x}+c$$
+
+
+
+
+
 
 
 
