@@ -1,2 +1,0 @@
-# Tích phân đa biến
-

@@ -1,6 +1,0 @@
----
-icon: integral
----
-
-# Tích phân
-
