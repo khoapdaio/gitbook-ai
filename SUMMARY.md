@@ -16,12 +16,7 @@
   * [Phép biến đổi tuyến tính](math/dai-so-tuyen-tinh/phep-bien-doi-tuyen-tinh.md)
   * [Eigenvalues và Eigenvector](math/dai-so-tuyen-tinh/eigenvalues-va-eigenvector.md)
 * [🔎 Giải tích](math/giai-tich.md)
-* [Xác suất thống kê](math/xac-suat-thong-ke/README.md)
-  * [Biến ngẫu nhiên và phân phối xác suất](math/xac-suat-thong-ke/bien-ngau-nhien-va-phan-phoi-xac-suat.md)
-  * [Thống kê mô tả](math/xac-suat-thong-ke/thong-ke-mo-ta.md)
-  * [Thống kê suy diễn](math/xac-suat-thong-ke/thong-ke-suy-dien.md)
-  * [Bayes](math/xac-suat-thong-ke/bayes.md)
-  * [Lý thuyết thông tin](math/xac-suat-thong-ke/ly-thuyet-thong-tin.md)
+* [Xác suất thống kê](math/xac-suat-thong-ke.md)
 
 ## Program
 
