@@ -71,8 +71,7 @@
 
 ## DEEP LEARNING
 
-* [Fundamental](deep-learning/fundamental.md)
-* [MLP](deep-learning/mlp.md)
+* [Neural Networks](deep-learning/neural-networks.md)
 * [CNN](deep-learning/cnn.md)
 * [RNN](deep-learning/rnn.md)
 * [Transformers](deep-learning/transformers.md)
