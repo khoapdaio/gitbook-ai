@@ -8,7 +8,7 @@ Neural Network: Mô hình toán học lấy cảm hứng từ cách hoạt độ
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Source: https://askabiologist.asu.edu/neuron-anatomy</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Source: https://askabiologist.asu.edu/neuron-anatomy</p></figcaption></figure>
 
 ## 2. Kiến trúc
 
@@ -20,7 +20,7 @@ Neural Network: Mô hình toán học lấy cảm hứng từ cách hoạt độ
 | Hidden layer | Thực hiện các tính toán phức tạp | tùy thuộc bài toán                                                                |
 | Output Layer | Cung cấp đầu ra cuối cùng        | <ul><li>Regression: 1 neuron</li><li>Classification: số neurons= số lớp</li></ul> |
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2 Công thức tổng quát
 
@@ -65,15 +65,15 @@ $$
 
 Các hàm kích hoạt được sử dụng ở cuối một hidden layer để đưa ra độ phức tạp phi tuyến sinh cho mô hình. Dưới đây là những cái phổ biến
 
+<figure><img src="../.gitbook/assets/activation_animation.gif" alt=""><figcaption></figcaption></figure>
+
 <table data-full-width="true"><thead><tr><th width="180">Tên</th><th>Công thức</th><th>Ưu điểm </th><th>Nhược điểm </th><th>Sử dụng</th></tr></thead><tbody><tr><td>Linear </td><td><span class="math">f(x)=x</span></td><td>Đơn giản</td><td>Không thêm phi tuyến tính, không thể học các quan hệ phức tạp</td><td>Thường dùng trong output layer cho bài toán hồi quy</td></tr><tr><td>Sigmoid</td><td><span class="math">f(x) = \frac{1}{1+e^{-x}}</span></td><td>Phù hợp cho các bài toán phân loại nhị phân</td><td><ul><li>Gradient rất nhỏ ở đầu ra khi giá trị lớn hoặc nhỏ quá</li><li>Tốn tài nguyên tính toán(sử dụng hàm mũ)</li></ul></td><td>Với Output range: (0, 1), hàm này thường được sử dụng cho output layer cho bài toán phân loại nhị phân</td></tr><tr><td>ReLU(Rectified Linear Unit)</td><td><span class="math">f(x)= max(0,x)</span></td><td><ul><li>Dễ tính toán, nhanh</li><li>Giảm thiểu vấn đề Vanishing gradient</li></ul></td><td>Dying ReLU problem: Neurons có thể chết (Trọng số không cập nhật nếu đầu ra luôn =0 )</td><td>Với Output range: [0, <span class="math">\infin</span>), hàm này thường được sử dụng cho Hidden layers trong hầu hết các mô hình hiện đại</td></tr><tr><td>Leaky ReLU</td><td><p><span class="math">f(x)= \begin{cases}  x,\text{ nếu } x>0\cr \beta x, \text{ nếu }x\le0 \end{cases}</span><br><span class="math">\beta</span>: Một giá trị nhỏ (thường là 0.01 ) giúp gradient không bằng 0 khi đầu vào âm</p><p></p></td><td><ul><li>Khắc phục Dying ReLU: đầu vào âm thì Leaky ReLU vẫn tạo ra gradient nhỏ ( <span class="math">\beta x</span> ), cho phép các neurons có thể được học tiếp</li><li>Đơn giản và nhanh: tính toán tương tự ReLU, không đòi hỏi tài nguyên</li></ul></td><td><ul><li>Không cố định: Giá trị <span class="math">\alpha</span> cần được chọn cẩn thận (thường được thiết lập thủ công)</li><li>Không đảm bảo tính trung tâm</li></ul></td><td>Hidden layers trong các mô hình học sâu, khi gặp vấn đề Dying ReLU</td></tr><tr><td>ELU(Exponential Linear Unit)</td><td><span class="math">f(x)= \begin{cases} x,\text{ nếu } x>0 \cr \beta(e^x-1)\text{ nếu }x\le 0 \end{cases}</span><span class="math">\beta</span>: Một hằng số dương (thường là 1)</td><td><ul><li>Tính đối xứng quanh 0</li><li>Khắc phục Dying ReLU</li><li>Cải thiện học sâu: ELU có gradient lớn hơn ở phần âm so với Leaky ReLU, giúp cập nhật trọng số hiệu quả hơn</li></ul></td><td><ul><li><p>Tốn tài nguyên: Việc tính toán exp(x) phức tạp hơn so với các phép tính cơ bản trong ReLU hoặc Leaky ReLU</p><ul><li>Cần chọn <span class="math">\beta</span> </li></ul></li></ul></td><td>Các mạng yêu cầu xử lý gradient ổn định hơn.<br>Các mạng học sâu phức tạp như CNN RNN</td></tr><tr><td>Tanh</td><td><span class="math">f(x)= \frac{e^x-e^{-x}}{e^x+e^{-x}}</span></td><td>Output có giá trị trung tâm là 0</td><td>Vấn đề gradient vanishing</td><td>Hidden layers trong các bài toán yêu cầu đầu ra từ -1 đến 1</td></tr></tbody></table>
 
 
 
-<figure><img src="https://lh5.googleusercontent.com/H1FDZClYPcmF7ZUfhZ9cR0j-hG9i7ORqNmvRT8dyyls6fgcC_UIa8H2EoQVRKPm6Pjt63cD8DBmlNCZHdhxzE-Vo-Kci_N4hX4LTh0pWOz6cMt-kCVSMi81S0R9511IV=w1280" alt=""><figcaption></figcaption></figure>
-
 ## 4. Training process (Quá trình huấn luyện)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><a href="https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa">https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><a href="https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa">https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></p></figcaption></figure>
 
 ### 4.1 Forward Progation
 
@@ -95,9 +95,7 @@ Dưới đây là top 5 các hàm mất mát được sử dựng nhiều&#x20;
 
 <table data-full-width="true"><thead><tr><th>Tên</th><th>Công thức </th><th>Ưu điểm </th><th>Nhược điểm</th></tr></thead><tbody><tr><td>Hinge</td><td><span class="math">\text{Hinge Loss} = \displaystyle{\sum_{i=1}^n}\max(0,1- y_i.\hat{y_i})</span><span class="math">f(x) = x * e^{2 pi i \xi x}</span></td><td>Hiệu quả trong việc tìm siêu phẳng tối ưu</td><td>Không phù hợp cho bài toán đa phân lớp</td></tr><tr><td>Cross-Entropy</td><td><span class="math">\text{CrossEntropy}= -\frac{1}{n}\displaystyle{\sum_{i=1}^n \sum_{j=1}^k}y_{ij}log(\hat{y_{ij}})</span></td><td>Tương thích tốt với các mô hình dựa trên xác suất</td><td>Cần chú ý khi dự đoán có xác suất bằng 0 (log(0)) không xác định</td></tr></tbody></table>
 
-
-
-<figure><img src="https://lh4.googleusercontent.com/ch5qKyLesTG2z68TpD4xELHV63zfG3b6okU74cXfSW1vFuFllx4YYhfZE9EMZtZrkc3lveEVNBc0C1znk-ktgXsmizXwM1gj1_tkm0qiQPKhrq3XQJtNHPfkaDsRQH7dDQ=w1280" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/loss_animation.gif" alt=""><figcaption></figcaption></figure>
 
 ### 4.3 Backpropagation
 
@@ -112,8 +110,6 @@ $$\eta$$: Learning rate
 ### 4.4 Optimizers
 
 Optimizers là các thuật toán hoặc phương pháp được sử dụng để điều chỉnh các trọng số và bias của một mô hình nhằm giảm thiểu hàm mất mát trong quá trình huấn luyện. Chúng đóng vai trò quan trọng trong việc tói ưu hóa hiệu suất của mô hình deep learning
-
-
 
 ## 5. Hyperparameter
 
