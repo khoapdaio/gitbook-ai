@@ -12,7 +12,7 @@ Lớp tích chập (convolution layer) và lớp gộp (pooling layer) có thể
 
 ### 2.1 Tầng tích chập (CONV)
 
-Tầng tích chập (CONV) sử dụng các bộ lọc để thực hiện phép tích chập khi đưa chúng đi qua đầu vào I theo các chiều của nó. Các siêu tham số của bộ lọc này bo gồm kích thước bộ lọc F và độ trượt(stride) S. Kết quả đầu ra O được gọi là feature map hay activation map
+Tầng tích chập (CONV) sử dụng các bộ lọc để thực hiện phép tích chập khi đưa chúng đi qua đầu vào I (input) theo các chiều của nó. Các siêu tham số của bộ lọc này bao gồm kích thước bộ lọc F (filter) và độ trượt S (stride). Kết quả đầu ra O (output) được gọi là feature map hay activation map
 
 <figure><img src="../.gitbook/assets/CONV.gif" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Tầng pooling(POOL) là một phép downsampling, thường được sử dụn
 
 ### 2.3 Fully Connected (FC)
 
-Tầng kết nối đầy đủ (FC) nhận đầu vào là các dữ liệu đã được làm phẳng, mà mỗi đầu vào đó được kết nối đến tất cả neuron. Trong mô hình mạng CNNs, các tần kết nối đầy đủ thường được tìm thấy ở cuối mạng và được dùng để tối ưu hóa mục tiêu của mạng ví dụ như độ chính xác của lớp
+Tầng kết nối đầy đủ (FC) nhận đầu vào là các dữ liệu đã được làm phẳng, mà mỗi đầu vào đó được kết nối đến tất cả neuron. Trong mô hình mạng CNNs, các tầng kết nối đầy đủ thường được tìm thấy ở cuối mạng và được dùng để tối ưu hóa mục tiêu của mạng ví dụ như độ chính xác của lớp
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
