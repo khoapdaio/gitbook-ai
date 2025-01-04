@@ -8,7 +8,7 @@ Neural Network: Mô hình toán học lấy cảm hứng từ cách hoạt độ
 
 
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Source: https://askabiologist.asu.edu/neuron-anatomy</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Source: https://askabiologist.asu.edu/neuron-anatomy</p></figcaption></figure>
 
 ## 2. Kiến trúc
 
@@ -20,7 +20,7 @@ Neural Network: Mô hình toán học lấy cảm hứng từ cách hoạt độ
 | Hidden layer | Thực hiện các tính toán phức tạp | tùy thuộc bài toán                                                                |
 | Output Layer | Cung cấp đầu ra cuối cùng        | <ul><li>Regression: 1 neuron</li><li>Classification: số neurons= số lớp</li></ul> |
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2 Công thức tổng quát
 
@@ -73,7 +73,7 @@ Các hàm kích hoạt được sử dụng ở cuối một hidden layer để 
 
 ## 4. Training process (Quá trình huấn luyện)
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p><a href="https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa">https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p><a href="https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa">https://medium.com/data-science-365/overview-of-a-neural-networks-learning-process-61690a502fa</a></p></figcaption></figure>
 
 ### 4.1 Forward Progation
 

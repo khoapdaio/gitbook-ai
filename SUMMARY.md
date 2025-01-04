@@ -73,6 +73,8 @@
 
 * [Neural Networks](deep-learning/neural-networks.md)
 * [CNN](deep-learning/cnn.md)
+* [CNN Advanced](deep-learning/cnn-advanced/README.md)
+  * [ResNet](deep-learning/cnn-advanced/resnet.md)
 * [RNN](deep-learning/rnn.md)
 * [Transformers](deep-learning/transformers.md)
 * [VAEs](deep-learning/vaes.md)
