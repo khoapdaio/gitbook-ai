@@ -11,29 +11,11 @@ Cụ thể nội dung các phần sẽ như sau:
 
 **Phần 1: Kiến thức về toán**&#x20;
 
-* Giải tích: vi phân, đạo hàm&#x20;
-* Đại số tuyến tính: Không gian véc tơ, ma trận, định thức, giá trị riêng và hệ cơ sở, phân tích suy biến
-* Vi phân:
-  * Vi phân từng phần
-  * Vi phân toàn phần
-  * Gradients
-  * Chain rule, Product rule
-  * Ma trận jacobian, Hessian
-  * Công thức xấp xỉ Newton
-  * Fourier Transform
-* Tích phần:
-  * Tích phân đa biến
-  * định lý Fubini
-  * Tích phân Riemann
-  * Tích phân Lebesgue
-* Xác xuất thống kê
-  * Không gian đại số các biến cố
-  * Độ đo xác suất
-  * Phân phối xác suất phổ biến
-  * Xác suất đồng thời, xác suất có điều kiện, xác suất biên.
-  * Biến ngẫu nhiên liên tục, rời rạc
-  * Hàm phân phối, mật độ, hàm khối xác suất
-  * Lý thuyết thông tin: Cross entropy, Kullback – Leibler divergence
+* [Đại số tuyến tính](../math/dai-so-tuyen-tinh/)
+* [Giải tích](../math/giai-tich.md)
+*   [Xác xuất thống kê](../math/xac-suat-thong-ke.md)
+
+
 
 **Phần 2: Kiến thức lập trình**
 
@@ -103,11 +85,11 @@ Cụ thể nội dung các phần sẽ như sau:
 
 **Phần 5: Deep Learning**
 
-* Fudamental
-* MLP
-* CNN
-* RNN
-* Transformers
+* [Neural Networks](../deep-learning/neural-networks.md)
+* [CNN](../deep-learning/cnn.md)
+* [CNN Advanced](../deep-learning/cnn-advanced/)
+* [RNN](../deep-learning/rnn.md)
+* [Transformers](../deep-learning/transformers.md)
 * VAEs
 * GAN
 * Diffusion
