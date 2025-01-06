@@ -10,7 +10,7 @@ Các mạng Neuron hồi quy, còn được biết đến như là RNNs, là m�
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại mỗi bước t, giá trị kích hoạt $$a^{<t>}$$ và đầu ra $$y^{<t>}$$ được biểu diễn như sau:
 
@@ -20,7 +20,7 @@ $$
 
 với $$W_{ax},W_{aa},W_{ya},b_a,b_y$$ là các hệ số được chia sẻ tạm thời và $$g_1,g_2$$ là các hàm kích hoạt.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ưu nhược điểm của một kiến trúc RNN thông thường được tổng kết ở bảng dưới đây:
 
