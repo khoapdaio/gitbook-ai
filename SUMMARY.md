@@ -75,13 +75,10 @@
 * [CNN](deep-learning/cnn.md)
 * [CNN Advanced](deep-learning/cnn-advanced/README.md)
   * [ResNet](deep-learning/cnn-advanced/resnet.md)
+  * [U-Net](deep-learning/cnn-advanced/u-net.md)
 * [RNN](deep-learning/rnn.md)
 * [Transformers](deep-learning/transformers.md)
 * [VAEs](deep-learning/vaes.md)
 * [GAN](deep-learning/gan.md)
 * [Diffusion](deep-learning/diffusion.md)
 * [Generative AI and LLMs](deep-learning/generative-ai-and-llms.md)
-
-## CASE STUDY
-
-* [Page 5](case-study/page-5.md)
