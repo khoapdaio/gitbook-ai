@@ -78,7 +78,10 @@
   * [U-Net](deep-learning/cnn-advanced/u-net.md)
 * [RNN](deep-learning/rnn.md)
 * [Transformers](deep-learning/transformers.md)
-* [VAEs](deep-learning/vaes.md)
 * [GAN](deep-learning/gan.md)
 * [Diffusion](deep-learning/diffusion.md)
 * [Generative AI and LLMs](deep-learning/generative-ai-and-llms.md)
+
+## Tools , tips and chicks
+
+* [Interview question](tools-tips-and-chicks/interview-question.md)
