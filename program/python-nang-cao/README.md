@@ -1,5 +1,5 @@
 ---
-icon: object-exclude
+icon: python
 ---
 
 # Python nâng cao

@@ -36,6 +36,8 @@
   * [Xử lý lỗi và ngoại lệ](program/python-nang-cao/xu-ly-loi-va-ngoai-le.md)
   * [File IO](program/python-nang-cao/file-io.md)
   * [Module and Packages](program/python-nang-cao/module-and-packages.md)
+* [Java cơ bản](program/java-co-ban.md)
+* [Java Nâng cao](program/java-nang-cao.md)
 * [S.O.L.I.D](program/s.o.l.i.d/README.md)
   * [Single-responsiblity principle](program/s.o.l.i.d/single-responsiblity-principle.md)
   * [Open-closed principle](program/s.o.l.i.d/open-closed-principle.md)
@@ -53,6 +55,10 @@
   * [Template Method Pattern](program/design-pattern/template-method-pattern.md)
   * [Chain of Reponsibility Pattern](program/design-pattern/chain-of-reponsibility-pattern.md)
   * [Command Pattern](program/design-pattern/command-pattern.md)
+
+## FRAMWORK
+
+* [Spring](framwork/spring.md)
 
 ## LIBARARY
 
@@ -85,3 +91,9 @@
 ## Tools , tips and chicks
 
 * [Interview question](tools-tips-and-chicks/interview-question.md)
+* [Leetcode](tools-tips-and-chicks/leetcode.md)
+* [ETS](tools-tips-and-chicks/ets/README.md)
+  * [Java 8](tools-tips-and-chicks/ets/java-8/README.md)
+    * [OCA](tools-tips-and-chicks/ets/java-8/oca.md)
+  * [Java 11](tools-tips-and-chicks/ets/java-11/README.md)
+    * [OCP](tools-tips-and-chicks/ets/java-11/ocp.md)
