@@ -91,7 +91,11 @@
 ## Tools , tips and chicks
 
 * [Interview question](tools-tips-and-chicks/interview-question.md)
-* [Leetcode](tools-tips-and-chicks/leetcode.md)
+* [Leetcode](tools-tips-and-chicks/leetcode/README.md)
+  * [Problem](tools-tips-and-chicks/leetcode/problem/README.md)
+    * [1. Two sum](tools-tips-and-chicks/leetcode/problem/1.-two-sum.md)
+  * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
+    * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
 * [ETS](tools-tips-and-chicks/ets/README.md)
   * [Java 8](tools-tips-and-chicks/ets/java-8/README.md)
     * [OCA](tools-tips-and-chicks/ets/java-8/oca.md)
