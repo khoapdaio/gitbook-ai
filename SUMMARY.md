@@ -91,9 +91,10 @@
 ## Tools , tips and chicks
 
 * [Interview question](tools-tips-and-chicks/interview-question.md)
-* [Leetcode](tools-tips-and-chicks/leetcode/README.md)
+* [Leetcode](tools-tips-and-chicks/leetcode.md)
   * [Problem](tools-tips-and-chicks/leetcode/problem/README.md)
     * [1. Two sum](tools-tips-and-chicks/leetcode/problem/1.-two-sum.md)
+    * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
 * [ETS](tools-tips-and-chicks/ets/README.md)
