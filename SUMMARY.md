@@ -94,6 +94,7 @@
 * [Leetcode](tools-tips-and-chicks/leetcode.md)
   * [Problem](tools-tips-and-chicks/leetcode/problem/README.md)
     * [1. Two sum](tools-tips-and-chicks/leetcode/problem/1.-two-sum.md)
+    * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
