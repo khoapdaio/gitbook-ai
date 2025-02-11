@@ -99,6 +99,7 @@
     * [1. Two sum](tools-tips-and-chicks/leetcode/problem/1.-two-sum.md)
     * [151. Reverse Words in a String](tools-tips-and-chicks/leetcode/problem/151.-reverse-words-in-a-string.md)
     * [238. Product of Array Except Self](tools-tips-and-chicks/leetcode/problem/238.-product-of-array-except-self.md)
+    * [283. Move Zeroes](tools-tips-and-chicks/leetcode/problem/283.-move-zeroes.md)
     * [334. Increasing Triplet Subsequence](tools-tips-and-chicks/leetcode/problem/334.-increasing-triplet-subsequence.md)
     * [345. Reverse Vowels of a String](tools-tips-and-chicks/leetcode/problem/345.-reverse-vowels-of-a-string.md)
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
