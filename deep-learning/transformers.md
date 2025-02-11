@@ -12,7 +12,7 @@ Trích dẫn từ bài báo
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>(Nguồn: https://arxiv.org/abs/1706.03762)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>(Nguồn: https://arxiv.org/abs/1706.03762)</p></figcaption></figure>
 
 Kiến trúc Transformer gồm 2 thành phần chính:
 
@@ -36,7 +36,7 @@ Attention Mechanism ra đời từ nhu cầu giảm sự phụ thuộc tuần t�
 
 Cơ chế chú ý bao gồm 3 thành phần chính, là **Query**, **Key**, và**Value**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Nguồn <a href="https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention">https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Nguồn <a href="https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention">https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention</a></p></figcaption></figure>
 
 Ý tưởng chính của Attention Machanism:
 
@@ -63,7 +63,7 @@ $$
 * V (Value): Đại diện cho thông tin cần truy xuất.
 * $$d_k$$​: Kích thước của vector Key.
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Nguồn <a href="https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention">https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention</a></p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Nguồn <a href="https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention">https://steveimm.id/posts/transformer-cheatsheet/#scaled-dot-product-attention</a></p></figcaption></figure></div>
 
 * $$QK^T$$ là phép nhân ma trận, tính điểm tương quan giữa các truy vấn $$Q$$ và các khóa $$K$$. Mỗi phân tử trong kết quả biểu diễn mức độ liên quan (similarity) giữa một phần tử trong truy vấn với tất cả các phần tử trong khóa. Vì đay là dot product(tích vô hướng), một cách hiệu quả để đo độ tương đồng giữa các vector
 * $$\sqrt{d_k}$$ là các căn bậc hai của số chiều của vector khóa $$d_k$$. Chia cho $$\sqrt{d_k}$$ giúp ổn định giá trị, giữ các điểm tương quan trong phạm vi hợp lý

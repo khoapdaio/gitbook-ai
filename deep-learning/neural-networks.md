@@ -20,7 +20,7 @@ Neural Network: Mô hình toán học lấy cảm hứng từ cách hoạt độ
 | Hidden layer | Thực hiện các tính toán phức tạp | tùy thuộc bài toán                                                                |
 | Output Layer | Cung cấp đầu ra cuối cùng        | <ul><li>Regression: 1 neuron</li><li>Classification: số neurons= số lớp</li></ul> |
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2 Công thức tổng quát
 
