@@ -119,6 +119,7 @@
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
+    * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
 * [ETS](tools-tips-and-chicks/ets/README.md)
   * [Java 8](tools-tips-and-chicks/ets/java-8/README.md)
     * [OCA](tools-tips-and-chicks/ets/java-8/oca.md)
