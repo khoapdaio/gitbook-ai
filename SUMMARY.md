@@ -110,6 +110,7 @@
     * [283. Move Zeroes](tools-tips-and-chicks/leetcode/problem/283.-move-zeroes.md)
     * [334. Increasing Triplet Subsequence](tools-tips-and-chicks/leetcode/problem/334.-increasing-triplet-subsequence.md)
     * [345. Reverse Vowels of a String](tools-tips-and-chicks/leetcode/problem/345.-reverse-vowels-of-a-string.md)
+    * [392. Is Subsequence](tools-tips-and-chicks/leetcode/problem/392.-is-subsequence.md)
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
