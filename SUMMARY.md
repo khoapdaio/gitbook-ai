@@ -101,6 +101,7 @@
     * [238. Product of Array Except Self](tools-tips-and-chicks/leetcode/problem/238.-product-of-array-except-self.md)
     * [334. Increasing Triplet Subsequence](tools-tips-and-chicks/leetcode/problem/334.-increasing-triplet-subsequence.md)
     * [345. Reverse Vowels of a String](tools-tips-and-chicks/leetcode/problem/345.-reverse-vowels-of-a-string.md)
+    * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
