@@ -115,6 +115,7 @@
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [643. Maximum Average Subarray I](tools-tips-and-chicks/leetcode/problem/643.-maximum-average-subarray-i.md)
+    * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
     * [1456. Maximum Number of Vowels in a Substring of Given Length](tools-tips-and-chicks/leetcode/problem/1456.-maximum-number-of-vowels-in-a-substring-of-given-length.md)
