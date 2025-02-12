@@ -18,7 +18,7 @@ icon: question
 * Machine learning là một nhánh của AI, xoay quanh việc nghiên cứu và xây dựng các kĩ thuật cho phép hệ thống "học" tự động từ dữ liệu để giải quyết những vấn đề cụ thể.
 * Deep Learning là một nhánh của Machine Learning sử dụng các mạng nơ-ron nhân tạo nhiều tầng để học cách biểu diễn dữ liệu phức tạp.
 
-&#x20;![](<../.gitbook/assets/image (43).png>)<img src="../.gitbook/assets/image (45).png" alt="" data-size="original">
+&#x20;![](<../.gitbook/assets/image (43).png>)<img src="broken-reference" alt="" data-size="original">
 
 
 

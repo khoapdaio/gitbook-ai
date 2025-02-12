@@ -6,7 +6,7 @@
 
 Các mạng Neuron hồi quy, còn được biết đến như là RNNs, là một lớp của mạng neural cho phép đầu ra được sử dụng như đầu vào trong khi có các trạng thái ẩn. RNNs được thiết kế để xử lý dữ liệu tuần tự như chuỗi thời gian, văn bản, âm thanh và video Thông thường như sau:
 
-<figure><img src="../.gitbook/assets/Sequentail.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 
 
