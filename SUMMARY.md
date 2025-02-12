@@ -122,6 +122,7 @@
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
+    * [1207. Unique Number of Occurrences](tools-tips-and-chicks/leetcode/problem/1207.-unique-number-of-occurrences.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
     * [1493. Longest Subarray of 1's After Deleting One Element](tools-tips-and-chicks/leetcode/problem/1493.-longest-subarray-of-1s-after-deleting-one-element.md)
     * [1456. Maximum Number of Vowels in a Substring of Given Length](tools-tips-and-chicks/leetcode/problem/1456.-maximum-number-of-vowels-in-a-substring-of-given-length.md)
