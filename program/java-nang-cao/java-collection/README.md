@@ -2,7 +2,7 @@
 
 Collection trong Java là một framework cung cấp các cấu trúc dữ liệu và các thuật toán để lưu trữ và thao tác với nhóm các đối tượng (objects). Nó là một phần của Java Collection Framework JCF, nằm trong gói java.util. Collection giúp lập tình viên làm việc với các nhóm đối tượng một cách linh hoạt hiệu quả và dễ dàng hơn.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.geeksforgeeks.org/java-collection-tutorial/?ref=shm">https://www.geeksforgeeks.org/java-collection-tutorial/?ref=shm</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.geeksforgeeks.org/java-collection-tutorial/?ref=shm">https://www.geeksforgeeks.org/java-collection-tutorial/?ref=shm</a></p></figcaption></figure>
 
 ## Các Interface chính trong Collection Framework
 
