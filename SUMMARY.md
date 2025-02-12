@@ -114,6 +114,7 @@
     * [392. Is Subsequence](tools-tips-and-chicks/leetcode/problem/392.-is-subsequence.md)
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
+    * [643. Maximum Average Subarray I](tools-tips-and-chicks/leetcode/problem/643.-maximum-average-subarray-i.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
     * [1679. Max Number of K-Sum Pairs](tools-tips-and-chicks/leetcode/problem/1679.-max-number-of-k-sum-pairs.md)
