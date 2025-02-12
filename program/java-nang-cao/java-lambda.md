@@ -68,6 +68,6 @@ public class LambdaExample {
 
 ***
 
-## Toms lai
+## 🎯 Tóm lại
 
 Lambda trong Java là một biểu thức cho phép định nghĩa các hàm vô danh một cách ngắn gọn, giúp cài đặt các functional interface dễ dàng và làm cho mã nguồn trở nên rõ ràng, súc tích hơn. Đây là một trong những tính năng mạnh mẽ hỗ trợ lập trình hàm trong Java, đặc biệt hữu ích khi làm việc với các API hiện đại như Stream API.
