@@ -121,6 +121,7 @@
     * [1493. Longest Subarray of 1's After Deleting One Element](tools-tips-and-chicks/leetcode/problem/1493.-longest-subarray-of-1s-after-deleting-one-element.md)
     * [1456. Maximum Number of Vowels in a Substring of Given Length](tools-tips-and-chicks/leetcode/problem/1456.-maximum-number-of-vowels-in-a-substring-of-given-length.md)
     * [1679. Max Number of K-Sum Pairs](tools-tips-and-chicks/leetcode/problem/1679.-max-number-of-k-sum-pairs.md)
+    * [1732. Find the Highest Altitude](tools-tips-and-chicks/leetcode/problem/1732.-find-the-highest-altitude.md)
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
