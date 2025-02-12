@@ -52,6 +52,7 @@
   * [Java - Generics](program/java-nang-cao/java-generics.md)
   * [Java -  Lambda](program/java-nang-cao/java-lambda.md)
   * [Java - Stream API](program/java-nang-cao/java-stream-api.md)
+  * [Java - Optional](program/java-nang-cao/java-optional.md)
 * [S.O.L.I.D](program/s.o.l.i.d/README.md)
   * [Single-responsiblity principle](program/s.o.l.i.d/single-responsiblity-principle.md)
   * [Open-closed principle](program/s.o.l.i.d/open-closed-principle.md)
