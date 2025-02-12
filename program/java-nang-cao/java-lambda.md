@@ -15,7 +15,7 @@ Lambda là một biểu thức cho phép bạn viết một hàm không tên (an
 *   **Ví dụ đơn giản:**
 
     ```java
-    javaSao chépChỉnh sửa// Lambda không tham số
+    // Lambda không tham số
     () -> System.out.println("Hello, Lambda!");
 
     // Lambda có tham số
@@ -28,14 +28,14 @@ Lambda là một biểu thức cho phép bạn viết một hàm không tên (an
 *   **Functional Interfaces:** Lambda thường được sử dụng để cài đặt các functional interface, ví dụ như `Runnable`, `Comparator`, `ActionListener`, v.v.
 
     ```java
-    javaSao chépChỉnh sửa// Ví dụ sử dụng lambda với interface Runnable:
+    // Ví dụ sử dụng lambda với interface Runnable:
     Runnable task = () -> System.out.println("Task is running!");
     new Thread(task).start();
     ```
 *   **Collections Framework:** Lambda giúp đơn giản hóa việc xử lý các tập hợp, chẳng hạn như sử dụng phương thức `forEach`, `filter`, `map` với các stream.
 
     ```java
-    javaSao chépChỉnh sửaList<String> names = Arrays.asList("Alice", "Bob", "Charlie");
+    List<String> names = Arrays.asList("Alice", "Bob", "Charlie");
     names.forEach(name -> System.out.println(name));
     ```
 * **Event Handling:** Trong GUI programming, lambda giúp đơn giản hóa việc cài đặt các listener.
@@ -49,7 +49,7 @@ Lambda là một biểu thức cho phép bạn viết một hàm không tên (an
 ## **5. Ví dụ thực tế:**
 
 ```java
-javaSao chépChỉnh sửaimport java.util.Arrays;
+import java.util.Arrays;
 import java.util.List;
 
 public class LambdaExample {
