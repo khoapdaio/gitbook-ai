@@ -50,6 +50,7 @@
     * [Java Sorted Map Interface](program/java-nang-cao/java-collection/java-sorted-map-interface.md)
     * [Java Queue Interface](program/java-nang-cao/java-collection/java-queue-interface.md)
   * [Java - Generics](program/java-nang-cao/java-generics.md)
+  * [Java -  Lambda](program/java-nang-cao/java-lambda.md)
 * [S.O.L.I.D](program/s.o.l.i.d/README.md)
   * [Single-responsiblity principle](program/s.o.l.i.d/single-responsiblity-principle.md)
   * [Open-closed principle](program/s.o.l.i.d/open-closed-principle.md)
