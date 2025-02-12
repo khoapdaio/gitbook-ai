@@ -116,6 +116,7 @@
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
+    * [1679. Max Number of K-Sum Pairs](tools-tips-and-chicks/leetcode/problem/1679.-max-number-of-k-sum-pairs.md)
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
