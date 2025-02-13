@@ -122,6 +122,7 @@
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [643. Maximum Average Subarray I](tools-tips-and-chicks/leetcode/problem/643.-maximum-average-subarray-i.md)
+    * [649. Dota2 Senate](tools-tips-and-chicks/leetcode/problem/649.-dota2-senate.md)
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
     * [933. Number of Recent Calls](tools-tips-and-chicks/leetcode/problem/933.-number-of-recent-calls.md)
