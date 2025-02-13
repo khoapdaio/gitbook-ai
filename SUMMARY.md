@@ -54,6 +54,7 @@
   * [Java - Stream API](program/java-nang-cao/java-stream-api.md)
   * [Java - Optional](program/java-nang-cao/java-optional.md)
   * [Java - Exception Handling](program/java-nang-cao/java-exception-handling.md)
+  * [Java - Custom Exceptions](program/java-nang-cao/java-custom-exceptions.md)
 * [S.O.L.I.D](program/s.o.l.i.d/README.md)
   * [Single-responsiblity principle](program/s.o.l.i.d/single-responsiblity-principle.md)
   * [Open-closed principle](program/s.o.l.i.d/open-closed-principle.md)
