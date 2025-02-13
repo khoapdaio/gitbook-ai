@@ -132,6 +132,7 @@
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
     * [2215. Find the Difference of Two Arrays](tools-tips-and-chicks/leetcode/problem/2215.-find-the-difference-of-two-arrays.md)
     * [2352. Equal Row and Column Pairs](tools-tips-and-chicks/leetcode/problem/2352.-equal-row-and-column-pairs.md)
+    * [2390. Removing Stars From a String](tools-tips-and-chicks/leetcode/problem/2390.-removing-stars-from-a-string.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
     * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
