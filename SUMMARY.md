@@ -145,6 +145,7 @@
     * [2352. Equal Row and Column Pairs](tools-tips-and-chicks/leetcode/problem/2352.-equal-row-and-column-pairs.md)
     * [2390. Removing Stars From a String](tools-tips-and-chicks/leetcode/problem/2390.-removing-stars-from-a-string.md)
     * [2130. Maximum Twin Sum of a Linked List](tools-tips-and-chicks/leetcode/problem/2130.-maximum-twin-sum-of-a-linked-list.md)
+    * [1448. Count Good Nodes in Binary Tree](tools-tips-and-chicks/leetcode/problem/1448.-count-good-nodes-in-binary-tree.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
     * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
