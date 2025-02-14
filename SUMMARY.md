@@ -128,6 +128,7 @@
     * [649. Dota2 Senate](tools-tips-and-chicks/leetcode/problem/649.-dota2-senate.md)
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
+    * [872. Leaf-Similar Trees](tools-tips-and-chicks/leetcode/problem/872.-leaf-similar-trees.md)
     * [933. Number of Recent Calls](tools-tips-and-chicks/leetcode/problem/933.-number-of-recent-calls.md)
     * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
