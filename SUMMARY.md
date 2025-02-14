@@ -142,6 +142,7 @@
     * [2215. Find the Difference of Two Arrays](tools-tips-and-chicks/leetcode/problem/2215.-find-the-difference-of-two-arrays.md)
     * [2352. Equal Row and Column Pairs](tools-tips-and-chicks/leetcode/problem/2352.-equal-row-and-column-pairs.md)
     * [2390. Removing Stars From a String](tools-tips-and-chicks/leetcode/problem/2390.-removing-stars-from-a-string.md)
+    * [2130. Maximum Twin Sum of a Linked List](tools-tips-and-chicks/leetcode/problem/2130.-maximum-twin-sum-of-a-linked-list.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
     * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
