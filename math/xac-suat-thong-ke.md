@@ -8,13 +8,13 @@ icon: chart-scatter-bubble
 
 ### 1.1 Quy tắc nhân
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 Giả sử chúng ta có một thí nghiệm hợp chất (một thí nghiệm có nhiều thành phần). Nếu thành phần thứ nhất có n1 kết quả có thể xảy ra, thành phần thứ hai có n2 kết quả có thể xảy ra, . . . và thành phần thứ r có nr kết quả có thể xảy ra, thì tổng thể có n1n2 . . . nr khả năng cho toàn bộ thí nghiệm
 
 ### 1.2 Bảng lấy mẫu
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bảng lấy mẫu cung cấp số lượng mẫu có thể có kích thước k trong một quần thể có kích thước n, theo nhiều giả định khác nhau về cách thu thập mẫu.
 
@@ -184,7 +184,7 @@ $$
 \text{px}(x) =P(X=x)
 $$
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 PMF thỏa mãn
 

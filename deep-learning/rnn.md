@@ -10,7 +10,7 @@ Các mạng Neuron hồi quy, còn được biết đến như là RNNs, là m�
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại mỗi bước t, giá trị kích hoạt $$a^{<t>}$$ và đầu ra $$y^{<t>}$$ được biểu diễn như sau:
 

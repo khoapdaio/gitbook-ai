@@ -6,7 +6,7 @@
 
 ## **2. Mục đích và nguyên tắc hoạt động:**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **FIFO (First-In-First-Out):** Đây là cách hoạt động mặc định của hàng đợi, đảm bảo rằng thứ tự xử lý của các phần tử là theo thứ tự chúng được thêm vào.
 * **Quy trình xử lý:** Queue thường được sử dụng trong các tình huống cần quản lý các yêu cầu, tác vụ hoặc các phần tử cần xử lý theo thứ tự như hệ thống in, xử lý tác vụ, quản lý phiên làm việc, v.v.
