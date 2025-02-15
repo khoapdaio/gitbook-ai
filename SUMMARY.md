@@ -155,6 +155,7 @@
     * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
     * [3. Prefix Sum & Kadane’s](tools-tips-and-chicks/leetcode/pattern/3.-prefix-sum-and-kadanes.md)
     * [4. Binary tree DFS(Depth-First Search)](tools-tips-and-chicks/leetcode/pattern/4.-binary-tree-dfs-depth-first-search.md)
+    * [5. Binary tree BFS(Breath-First Search)](tools-tips-and-chicks/leetcode/pattern/5.-binary-tree-bfs-breath-first-search.md)
 * [ETS](tools-tips-and-chicks/ets/README.md)
   * [Java 8](tools-tips-and-chicks/ets/java-8/README.md)
     * [OCA](tools-tips-and-chicks/ets/java-8/oca.md)
