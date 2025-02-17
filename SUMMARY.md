@@ -134,6 +134,7 @@
     * [700. Search in a Binary Search Tree](tools-tips-and-chicks/leetcode/problem/700.-search-in-a-binary-search-tree.md)
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
+    * [841. Keys and Rooms](tools-tips-and-chicks/leetcode/problem/841.-keys-and-rooms.md)
     * [872. Leaf-Similar Trees](tools-tips-and-chicks/leetcode/problem/872.-leaf-similar-trees.md)
     * [933. Number of Recent Calls](tools-tips-and-chicks/leetcode/problem/933.-number-of-recent-calls.md)
     * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
