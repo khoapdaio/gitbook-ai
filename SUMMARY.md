@@ -153,6 +153,7 @@
     * [1657. Determine if Two Strings Are Close](tools-tips-and-chicks/leetcode/problem/1657.-determine-if-two-strings-are-close.md)
     * [1732. Find the Highest Altitude](tools-tips-and-chicks/leetcode/problem/1732.-find-the-highest-altitude.md)
     * [1768. Merge Strings Alternately](tools-tips-and-chicks/leetcode/problem/1768.-merge-strings-alternately.md)
+    * [1926 - Nearest Exit from Entrance in Maze](tools-tips-and-chicks/leetcode/problem/1926-nearest-exit-from-entrance-in-maze.md)
     * [2095. Delete the Middle Node of a Linked List](tools-tips-and-chicks/leetcode/problem/2095.-delete-the-middle-node-of-a-linked-list.md)
     * [2215. Find the Difference of Two Arrays](tools-tips-and-chicks/leetcode/problem/2215.-find-the-difference-of-two-arrays.md)
     * [2352. Equal Row and Column Pairs](tools-tips-and-chicks/leetcode/problem/2352.-equal-row-and-column-pairs.md)
