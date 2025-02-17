@@ -127,6 +127,7 @@
     * [394. Decode String](tools-tips-and-chicks/leetcode/problem/394.-decode-string.md)
     * [437. Path Sum III](tools-tips-and-chicks/leetcode/problem/437.-path-sum-iii.md)
     * [443. String Compression](tools-tips-and-chicks/leetcode/problem/443.-string-compression.md)
+    * [450. Delete Node in a BST](tools-tips-and-chicks/leetcode/problem/450.-delete-node-in-a-bst.md)
     * [605. Can Place Flowers](tools-tips-and-chicks/leetcode/problem/605.-can-place-flowers.md)
     * [643. Maximum Average Subarray I](tools-tips-and-chicks/leetcode/problem/643.-maximum-average-subarray-i.md)
     * [649. Dota2 Senate](tools-tips-and-chicks/leetcode/problem/649.-dota2-senate.md)
