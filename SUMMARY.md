@@ -163,6 +163,7 @@
     * [2130. Maximum Twin Sum of a Linked List](tools-tips-and-chicks/leetcode/problem/2130.-maximum-twin-sum-of-a-linked-list.md)
     * [2336. Smallest Number in Infinite Set](tools-tips-and-chicks/leetcode/problem/2336.-smallest-number-in-infinite-set.md)
     * [2542. Maximum Subsequence Score](tools-tips-and-chicks/leetcode/problem/2542.-maximum-subsequence-score.md)
+    * [2462. Total Cost to Hire K Workers](tools-tips-and-chicks/leetcode/problem/2462.-total-cost-to-hire-k-workers.md)
   * [Pattern](tools-tips-and-chicks/leetcode/pattern/README.md)
     * [1. Two pointer](tools-tips-and-chicks/leetcode/pattern/1.-two-pointer.md)
     * [2. Sliding window](tools-tips-and-chicks/leetcode/pattern/2.-sliding-window.md)
