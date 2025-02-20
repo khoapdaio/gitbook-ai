@@ -162,6 +162,7 @@
     * [2352. Equal Row and Column Pairs](tools-tips-and-chicks/leetcode/problem/2352.-equal-row-and-column-pairs.md)
     * [2390. Removing Stars From a String](tools-tips-and-chicks/leetcode/problem/2390.-removing-stars-from-a-string.md)
     * [2130. Maximum Twin Sum of a Linked List](tools-tips-and-chicks/leetcode/problem/2130.-maximum-twin-sum-of-a-linked-list.md)
+    * [2300. Successful Pairs of Spells and Potions](tools-tips-and-chicks/leetcode/problem/2300.-successful-pairs-of-spells-and-potions.md)
     * [2336. Smallest Number in Infinite Set](tools-tips-and-chicks/leetcode/problem/2336.-smallest-number-in-infinite-set.md)
     * [2542. Maximum Subsequence Score](tools-tips-and-chicks/leetcode/problem/2542.-maximum-subsequence-score.md)
     * [2462. Total Cost to Hire K Workers](tools-tips-and-chicks/leetcode/problem/2462.-total-cost-to-hire-k-workers.md)
