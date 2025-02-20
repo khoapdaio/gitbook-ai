@@ -141,6 +141,7 @@
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
     * [841. Keys and Rooms](tools-tips-and-chicks/leetcode/problem/841.-keys-and-rooms.md)
     * [872. Leaf-Similar Trees](tools-tips-and-chicks/leetcode/problem/872.-leaf-similar-trees.md)
+    * [875. Koko Eating Bananas](tools-tips-and-chicks/leetcode/problem/875.-koko-eating-bananas.md)
     * [933. Number of Recent Calls](tools-tips-and-chicks/leetcode/problem/933.-number-of-recent-calls.md)
     * [994.  Rotting Oranges](tools-tips-and-chicks/leetcode/problem/994.-rotting-oranges.md)
     * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
