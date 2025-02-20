@@ -115,6 +115,7 @@
     * [11. Container With Most Water](tools-tips-and-chicks/leetcode/problem/11.-container-with-most-water.md)
     * [104. Maximum Depth of Binary Tree](tools-tips-and-chicks/leetcode/problem/104.-maximum-depth-of-binary-tree.md)
     * [151. Reverse Words in a String](tools-tips-and-chicks/leetcode/problem/151.-reverse-words-in-a-string.md)
+    * [162. Find Peak Element](tools-tips-and-chicks/leetcode/problem/162.-find-peak-element.md)
     * [199. Binary Tree Right Side View](tools-tips-and-chicks/leetcode/problem/199.-binary-tree-right-side-view.md)
     * [206. Reverse Linked List](tools-tips-and-chicks/leetcode/problem/206.-reverse-linked-list.md)
     * [215. Kth Largest Element in an Array](tools-tips-and-chicks/leetcode/problem/215.-kth-largest-element-in-an-array.md)
