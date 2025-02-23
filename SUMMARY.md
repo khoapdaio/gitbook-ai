@@ -141,6 +141,7 @@
     * [643. Maximum Average Subarray I](tools-tips-and-chicks/leetcode/problem/643.-maximum-average-subarray-i.md)
     * [649. Dota2 Senate](tools-tips-and-chicks/leetcode/problem/649.-dota2-senate.md)
     * [700. Search in a Binary Search Tree](tools-tips-and-chicks/leetcode/problem/700.-search-in-a-binary-search-tree.md)
+    * [714. Best Time to Buy and Sell Stock with Transaction Fee](tools-tips-and-chicks/leetcode/problem/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
     * [746. Min Cost Climbing Stairs](tools-tips-and-chicks/leetcode/problem/746.-min-cost-climbing-stairs.md)
