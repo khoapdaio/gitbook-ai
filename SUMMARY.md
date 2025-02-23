@@ -152,6 +152,7 @@
     * [994.  Rotting Oranges](tools-tips-and-chicks/leetcode/problem/994.-rotting-oranges.md)
     * [1004. Max Consecutive Ones III](tools-tips-and-chicks/leetcode/problem/1004.-max-consecutive-ones-iii.md)
     * [1071. Greatest Common Divisor of Strings](tools-tips-and-chicks/leetcode/problem/1071.-greatest-common-divisor-of-strings.md)
+    * [1143. Longest Common Subsequence](tools-tips-and-chicks/leetcode/problem/1143.-longest-common-subsequence.md)
     * [1161. Maximum Level Sum of a Binary Tree](tools-tips-and-chicks/leetcode/problem/1161.-maximum-level-sum-of-a-binary-tree.md)
     * [1207. Unique Number of Occurrences](tools-tips-and-chicks/leetcode/problem/1207.-unique-number-of-occurrences.md)
     * [1137. N-th Tribonacci Number](tools-tips-and-chicks/leetcode/problem/1137.-n-th-tribonacci-number.md)
