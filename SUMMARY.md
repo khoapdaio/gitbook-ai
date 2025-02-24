@@ -159,6 +159,7 @@
     * [1161. Maximum Level Sum of a Binary Tree](tools-tips-and-chicks/leetcode/problem/1161.-maximum-level-sum-of-a-binary-tree.md)
     * [1207. Unique Number of Occurrences](tools-tips-and-chicks/leetcode/problem/1207.-unique-number-of-occurrences.md)
     * [1137. N-th Tribonacci Number](tools-tips-and-chicks/leetcode/problem/1137.-n-th-tribonacci-number.md)
+    * [1318. Minimum Flips to Make a OR b Equal to c](tools-tips-and-chicks/leetcode/problem/1318.-minimum-flips-to-make-a-or-b-equal-to-c.md)
     * [1372. Longest ZigZag Path in a Binary Tree](tools-tips-and-chicks/leetcode/problem/1372.-longest-zigzag-path-in-a-binary-tree.md)
     * [1431. Kids with the Greatest Number of Candies](tools-tips-and-chicks/leetcode/problem/1431.-kids-with-the-greatest-number-of-candies.md)
     * [1448. Count Good Nodes in Binary Tree](tools-tips-and-chicks/leetcode/problem/1448.-count-good-nodes-in-binary-tree.md)
