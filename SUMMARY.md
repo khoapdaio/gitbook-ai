@@ -129,6 +129,7 @@
     * [283. Move Zeroes](tools-tips-and-chicks/leetcode/problem/283.-move-zeroes.md)
     * [328. Odd Even Linked List](tools-tips-and-chicks/leetcode/problem/328.-odd-even-linked-list.md)
     * [334. Increasing Triplet Subsequence](tools-tips-and-chicks/leetcode/problem/334.-increasing-triplet-subsequence.md)
+    * [338. Counting Bits](tools-tips-and-chicks/leetcode/problem/338.-counting-bits.md)
     * [345. Reverse Vowels of a String](tools-tips-and-chicks/leetcode/problem/345.-reverse-vowels-of-a-string.md)
     * [374. Guess Number Higher or Lower](tools-tips-and-chicks/leetcode/problem/374.-guess-number-higher-or-lower.md)
     * [392. Is Subsequence](tools-tips-and-chicks/leetcode/problem/392.-is-subsequence.md)
