@@ -149,6 +149,7 @@
     * [714. Best Time to Buy and Sell Stock with Transaction Fee](tools-tips-and-chicks/leetcode/problem/714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
     * [724. Find Pivot Index](tools-tips-and-chicks/leetcode/problem/724.-find-pivot-index.md)
     * [735. Asteroid Collision](tools-tips-and-chicks/leetcode/problem/735.-asteroid-collision.md)
+    * [739. Daily Temperatures](tools-tips-and-chicks/leetcode/problem/739.-daily-temperatures.md)
     * [746. Min Cost Climbing Stairs](tools-tips-and-chicks/leetcode/problem/746.-min-cost-climbing-stairs.md)
     * [790. Domino and Tromino Tiling](tools-tips-and-chicks/leetcode/problem/790.-domino-and-tromino-tiling.md)
     * [841. Keys and Rooms](tools-tips-and-chicks/leetcode/problem/841.-keys-and-rooms.md)
