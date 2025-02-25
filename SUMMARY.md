@@ -116,6 +116,7 @@
     * [17. Letter Combinations of a Phone Number](tools-tips-and-chicks/leetcode/problem/17.-letter-combinations-of-a-phone-number.md)
     * [62. Unique Paths](tools-tips-and-chicks/leetcode/problem/62.-unique-paths.md)
     * [72. Edit Distance](tools-tips-and-chicks/leetcode/problem/72.-edit-distance.md)
+    * [88. Merge Sorted Array](tools-tips-and-chicks/leetcode/problem/88.-merge-sorted-array.md)
     * [104. Maximum Depth of Binary Tree](tools-tips-and-chicks/leetcode/problem/104.-maximum-depth-of-binary-tree.md)
     * [151. Reverse Words in a String](tools-tips-and-chicks/leetcode/problem/151.-reverse-words-in-a-string.md)
     * [162. Find Peak Element](tools-tips-and-chicks/leetcode/problem/162.-find-peak-element.md)
