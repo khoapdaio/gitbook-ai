@@ -173,6 +173,7 @@
     * [1448. Count Good Nodes in Binary Tree](tools-tips-and-chicks/leetcode/problem/1448.-count-good-nodes-in-binary-tree.md)
     * [1456. Maximum Number of Vowels in a Substring of Given Length](tools-tips-and-chicks/leetcode/problem/1456.-maximum-number-of-vowels-in-a-substring-of-given-length.md)
     * [1466. Reorder Routes to Make All Paths Lead to the City Zero](tools-tips-and-chicks/leetcode/problem/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
+    * [1749. Maximum Absolute Sum of Any Subarray](tools-tips-and-chicks/leetcode/problem/1749.-maximum-absolute-sum-of-any-subarray.md)
     * [1493. Longest Subarray of 1's After Deleting One Element](tools-tips-and-chicks/leetcode/problem/1493.-longest-subarray-of-1s-after-deleting-one-element.md)
     * [1524. Number of Sub-arrays With Odd Sum](tools-tips-and-chicks/leetcode/problem/1524.-number-of-sub-arrays-with-odd-sum.md)
     * [1679. Max Number of K-Sum Pairs](tools-tips-and-chicks/leetcode/problem/1679.-max-number-of-k-sum-pairs.md)
