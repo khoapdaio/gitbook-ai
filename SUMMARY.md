@@ -114,6 +114,7 @@
     * [1. Two sum](tools-tips-and-chicks/leetcode/problem/1.-two-sum.md)
     * [11. Container With Most Water](tools-tips-and-chicks/leetcode/problem/11.-container-with-most-water.md)
     * [17. Letter Combinations of a Phone Number](tools-tips-and-chicks/leetcode/problem/17.-letter-combinations-of-a-phone-number.md)
+    * [26. Remove Duplicates from Sorted Array](tools-tips-and-chicks/leetcode/problem/26.-remove-duplicates-from-sorted-array.md)
     * [27. Remove Element](tools-tips-and-chicks/leetcode/problem/27.-remove-element.md)
     * [62. Unique Paths](tools-tips-and-chicks/leetcode/problem/62.-unique-paths.md)
     * [72. Edit Distance](tools-tips-and-chicks/leetcode/problem/72.-edit-distance.md)
