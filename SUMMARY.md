@@ -158,6 +158,7 @@
     * [790. Domino and Tromino Tiling](tools-tips-and-chicks/leetcode/problem/790.-domino-and-tromino-tiling.md)
     * [841. Keys and Rooms](tools-tips-and-chicks/leetcode/problem/841.-keys-and-rooms.md)
     * [872. Leaf-Similar Trees](tools-tips-and-chicks/leetcode/problem/872.-leaf-similar-trees.md)
+    * [873. Length of Longest Fibonacci Subsequence](tools-tips-and-chicks/leetcode/problem/873.-length-of-longest-fibonacci-subsequence.md)
     * [875. Koko Eating Bananas](tools-tips-and-chicks/leetcode/problem/875.-koko-eating-bananas.md)
     * [901. Online Stock Span](tools-tips-and-chicks/leetcode/problem/901.-online-stock-span.md)
     * [933. Number of Recent Calls](tools-tips-and-chicks/leetcode/problem/933.-number-of-recent-calls.md)
